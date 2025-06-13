@@ -1,0 +1,16 @@
+# Ignore all .log files
+*.log
+
+# Ignore the virtual environment folder
+venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore environment variables file
+.env
+
+discourse_md/
+tds_pages_md/
+discourse_json/
+
