@@ -1,5 +1,0 @@
-# No Title
-
-[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/168832/11)
-
-<p>All week 7 sessions are ROE mock solving questions. Only the 4th session was a special session and was labelled as such, but it also has a mock solving component. These are all available on the Youtube channel</p>

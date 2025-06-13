@@ -1,5 +1,0 @@
-# No Title
-
-[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/169029/52)
-
-<p>They(instructors) only don’t what to do it looks like, Anand Sir will tell them and they will tell you (with 25-50 percent lossy communication), just wait and keeping tagging Anand Sir. He will explain clearly, Ask everyone to push for a live session with Anand Sir , that 40 mins he explains will be worth its weight in gold, Hope he does that. Flattery gets me everywhere (not really, I really think Anand Sir is OP. Check out his YT <img src="https://emoji.discourse-cdn.com/google/fire.png?v=14" title=":fire:" class="emoji" alt=":fire:" loading="lazy" width="20" height="20"><img src="https://emoji.discourse-cdn.com/google/fire.png?v=14" title=":fire:" class="emoji" alt=":fire:" loading="lazy" width="20" height="20"><img src="https://emoji.discourse-cdn.com/google/saluting_face.png?v=14" title=":saluting_face:" class="emoji" alt=":saluting_face:" loading="lazy" width="20" height="20">)! <a class="mention" href="/u/s.anand">@s.anand</a></p>

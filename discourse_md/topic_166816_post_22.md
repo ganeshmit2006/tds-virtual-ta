@@ -1,5 +1,0 @@
-# No Title
-
-[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/166816/24)
-
-<p>Sir can u please extend the deadline till Tommorow becoz i have done half of the project lecture accordingly to what u have send n i’m still doing that n I won’t want to loose my marks i where doing since one week but that is not working n now i have started again doing this . So please sir i just need time till Tommorow.</p>

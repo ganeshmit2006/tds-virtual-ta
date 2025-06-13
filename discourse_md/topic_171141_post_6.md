@@ -1,5 +1,0 @@
-# No Title
-
-[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/171141/6)
-
-<p>You have to see the logs for that. We have shared the logs. Everyone was graded by the exact same code, so there is no partiality. Your code did not produce consistent results.</p>

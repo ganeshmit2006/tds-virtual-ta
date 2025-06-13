@@ -1,6 +1,0 @@
-# No Title
-
-[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/169029/54)
-
-<p>should we make the functions on the basis of the GAs or should we make it general so it will be able to perform the task but the data provided will be different.<br>
-<a class="mention" href="/u/s.anand">@s.anand</a>  <a class="mention" href="/u/carlton">@carlton</a></p>

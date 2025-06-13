@@ -1,5 +1,0 @@
-# No Title
-
-[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/168832/3)
-
-<p>Would we be able to start work on the questions 1 hour before the exam start time?</p>

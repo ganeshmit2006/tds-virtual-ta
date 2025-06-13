@@ -1,9 +1,0 @@
-# No Title
-
-[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/172707/10)
-
-<p>Hi,<br>
-From where are you checking the transcripts? I’m not able to see the answer transcripts in the score checker app.<br>
-<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/3/d/3d54127deb9243fce2a75dace8f4b52f14f9057f.png" data-download-href="/uploads/short-url/8KxftzhVAR7hdIl6XyT5lEFAL6v.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/d/3d54127deb9243fce2a75dace8f4b52f14f9057f_2_690x226.png" alt="image" data-base62-sha1="8KxftzhVAR7hdIl6XyT5lEFAL6v" width="690" height="226" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/d/3d54127deb9243fce2a75dace8f4b52f14f9057f_2_690x226.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/d/3d54127deb9243fce2a75dace8f4b52f14f9057f_2_1035x339.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/d/3d54127deb9243fce2a75dace8f4b52f14f9057f_2_1380x452.png 2x" data-dominant-color="CBD2D6"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1891×622 31.7 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
-
-![Image](https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/d/3d54127deb9243fce2a75dace8f4b52f14f9057f_2_690x226.png)

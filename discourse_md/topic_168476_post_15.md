@@ -1,5 +1,0 @@
-# No Title
-
-[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/168476/15)
-
-<p>Truly agree with your point. It is hard. If the marking scheme is unpredictable, why not remove the whole grading system from this course. This is punishment even when you do learn. Hopefully, I would like a better grading system in future, even the course is designed very well!</p>

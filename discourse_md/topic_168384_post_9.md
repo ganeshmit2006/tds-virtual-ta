@@ -1,5 +1,0 @@
-# No Title
-
-[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/168384/9)
-
-<p>Hi <a class="mention" href="/u/carlton">@carlton</a> , I will not be able to solve the mock in the given time due to other commitments. The grading document says 2 marks bonus for mocks. Will this be a part of that? If yes, is there any other way? As you have mentioned, I will keep a timer and try to solve it in 45 minutes.</p>

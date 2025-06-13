@@ -1,5 +1,0 @@
-# No Title
-
-[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/168832/92)
-
-<p>yes, as you can see my first save is at 7:25 which was a trial check if post submission is working or not but you can see that the 2nd and 3rd are saved in approx 1 minute but i got 8 corrects which proves that i have done it before only. the latest save got 9 marks as i forgot to run the fastapi server for 1st mark which resulted me 3 more minutes. So, I request sir to consider any one of the saves except the first save</p>
