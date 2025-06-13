@@ -1,0 +1,8 @@
+# No Title
+
+[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/165959/15)
+
+<p>There is no submit button is available in below screen. Is it fine to save the link url only. Please clarify (unless we click submit button the log of Graded Assignment 4 remains red)<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png" data-download-href="/uploads/short-url/f4jKCc51NQ8kgisT4CLVBDjbqQX.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png" alt="image" data-base62-sha1="f4jKCc51NQ8kgisT4CLVBDjbqQX" width="690" height="388" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_1035x582.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_1380x776.png 2x" data-dominant-color="E2E3E7"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1920×1080 337 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+![Image](https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)

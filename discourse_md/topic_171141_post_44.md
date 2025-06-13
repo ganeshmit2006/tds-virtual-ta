@@ -1,0 +1,8 @@
+# No Title
+
+[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/171141/47)
+
+<p>We demoed in the live session the complete process of how to dockerise your project so that it can be run anywhere. Running on your local machine is not a sufficient criteria for passing the evaluation. It is absolutely vital for students to understand deployment. This is a critical skill for anyone who is serious about working in this field.</p>
+<p>Also just check if yours is an arm based image or x86. Sometimes that makes a difference. For us there is no way to know other than docker software telling us. As it turns out several students had an arm based image but docker did not tell us that. So we will re run those.</p>
+<p>If yours has been run on the wrong emulation then we will re run.</p>
+<p>Kind regards</p>

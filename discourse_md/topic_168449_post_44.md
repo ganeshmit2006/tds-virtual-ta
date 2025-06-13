@@ -1,0 +1,6 @@
+# No Title
+
+[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/168449/45)
+
+<p>I understand that sentiment. I struggle with it a lot too when discussing it with Anand. Is there value or learning, in blind copying. Im not so sure. At some point someone has to learn to become an expert. A critical thinker. There is even a Microsoft study now that shows that GPT usage impacts critical thinking. Are we going to end up with a generation of people who can no longer critically think to solve a problem? These are good philosophical questions. I lie somewhere more on the conservative side of that spectrum. But everyone has to grapple with this tradeoff. Where does the right balance lie? I don’t know the answer to that question for others. I know the right answer for me.</p>
+<p>Kind regards</p>

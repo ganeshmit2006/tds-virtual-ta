@@ -1,0 +1,10 @@
+# No Title
+
+[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/166576/11)
+
+<p>Wrong / Confusing question Prof</p>
+<p>The top line mentions “Saturdays” whereas the bottom line mentions “Sundays”</p>
+<p>Please clarify “SUNDAY” or “SATURDAY”?</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/9/7/979374c3f5507f373bae753017ab4235a420e1b2.jpeg" data-download-href="/uploads/short-url/lCU1jU8E89JBWoznNnS71PMwjNE.jpeg?dl=1" title="grab-IIT-Madras--Microsoft Edge_at_21.44.39_on__14-02-2025__003253" rel="noopener nofollow ugc"><img src="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/7/979374c3f5507f373bae753017ab4235a420e1b2_2_528x499.jpeg" alt="grab-IIT-Madras--Microsoft Edge_at_21.44.39_on__14-02-2025__003253" data-base62-sha1="lCU1jU8E89JBWoznNnS71PMwjNE" width="528" height="499" srcset="https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/7/979374c3f5507f373bae753017ab4235a420e1b2_2_528x499.jpeg, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/7/979374c3f5507f373bae753017ab4235a420e1b2_2_792x748.jpeg 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/7/979374c3f5507f373bae753017ab4235a420e1b2_2_1056x998.jpeg 2x" data-dominant-color="F1F1F1"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">grab-IIT-Madras--Microsoft Edge_at_21.44.39_on__14-02-2025__003253</span><span class="informations">1920×1816 271 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+![Image](https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/9/7/979374c3f5507f373bae753017ab4235a420e1b2_2_528x499.jpeg)

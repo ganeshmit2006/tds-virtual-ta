@@ -1,0 +1,6 @@
+# No Title
+
+[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/172246/33)
+
+<p>It’s really unfair. We were not aware that doing reviews for GA7 would grant bonus marks and we have not received any mails regarding it.</p>
+<p>You could have informed us beforehand. 5 marks really makes a huge difference. I trust you guys to make it fair for everyone</p>

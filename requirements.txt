@@ -3,4 +3,16 @@ uvicorn
 openai
 python-multipart
 tiktoken
+beautifulsoup4
+markdownify
+playwright
+requests
+fastapi>=0.68.0
+uvicorn>=0.15.0
+python-multipart>=0.0.5
+Pillow
+google-generativeai
+google-generativeai>=0.3.0
+numpy>=1.21.0
+markdown
 

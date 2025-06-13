@@ -1,0 +1,10 @@
+# No Title
+
+[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/171485/7)
+
+<p>Sir,<br>
+Thankyou for your prompt reply to my query.<br>
+I wanted to let you know that i had made change of ‘LICENSE’ to ‘MIT LICENSE’ on the 16th of Feb itself as that was the day that i had received the mail and because I saw that the submission date had been extended by one day(i.e the 16th of Feb itself).<br>
+I completely understand what you are trying to convey but that was the sole reason i made that change on the 16th.<br>
+I completely respect your decision but if there is even a slight possibility that you consider it (only because I did it on the 16th) I would highly appreciate it.<br>
+Thankyou!</p>

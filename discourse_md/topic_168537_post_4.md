@@ -1,0 +1,6 @@
+# No Title
+
+[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/168537/5)
+
+<p>Apologies for the confusion. I realized that the issue was due to different time zones—Java OPPE displayed IST (GMT +5:30), while TDS ROE showed AST (GMT +3). On the same day, I intended to delete my post on Discourse but couldn’t find it, as it was still in draft mode. So, I deleted it. However, I was surprised to see the post today.</p>
+<p>I regret any inconvenience caused.</p>

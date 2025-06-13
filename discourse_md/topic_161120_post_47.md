@@ -1,0 +1,31 @@
+# No Title
+
+[Original Post](https://discourse.onlinedegree.iitm.ac.in/t/161120/51)
+
+<pre><code class="lang-auto">from flask import Flask, request, jsonify
+import pandas as pd
+from flask_cors import CORS
+
+app = Flask(__name__)
+CORS(app)
+
+# Load the CSV file into a DataFrame
+data = pd.read_csv('marks.csv')
+
+@app.route('/api', methods=['GET'])
+def get_marks():
+    # Get the list of names from query parameters
+    names = request.args.getlist('name')
+    
+    # Ensure the order of the names in the response matches the query
+    marks = [
+        int(data[data['name'] == name]['marks'].values[0]) if not data[data['name'] == name].empty else None 
+        for name in names
+    ]
+    
+    return jsonify({"marks": marks})
+
+if __name__ == '__main__':
+    app.run(debug=True)
+</code></pre>
+<p>this is the 2nd code I am trying but same error TypeError: Failed to fetch</p>
