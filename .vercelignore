@@ -1,0 +1,11 @@
+.git
+.gitignore
+*.pkl
+*.csv
+*.xlsx
+*.zip
+data/
+datasets/
+notebooks/
+__pycache__/
+.DS_Store
