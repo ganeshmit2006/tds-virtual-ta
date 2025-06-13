@@ -1,7 +1,0 @@
-*.csv
-*.xlsx
-*.zip
-data/
-datasets/
-notebooks/
-.DS_Store
