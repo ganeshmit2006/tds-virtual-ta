@@ -13,4 +13,5 @@ __pycache__/
 discourse_md/
 tds_pages_md/
 discourse_json/
-
+*.DS_Store
+.git/
