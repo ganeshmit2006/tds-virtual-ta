@@ -91,7 +91,7 @@ def filename_to_url(filename: str) -> Optional[str]:
 @app.post("/api/", response_model=AnswerResponse)
 async def answer_question(request: Request, payload: QuestionRequest):
     # Authorization check
-    auth_header = request.headers.get("authorization")
+    auth_header = request.headers.get("Authorization")
     if auth_header != f"Bearer {FASTAPI_TOKEN}":
         raise HTTPException(status_code=401, detail="Unauthorized")
 
