@@ -89,7 +89,7 @@ def filename_to_url(filename: str) -> Optional[str]:
     
     return None
 
-@app.get("/api/health", response_class=PlainTextResponse)
+@app.get("/api/", response_class=PlainTextResponse)
 async def health_check():
     """Health check endpoint for deployment verification"""
     return "API is healthy"
