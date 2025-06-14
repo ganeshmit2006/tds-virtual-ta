@@ -98,8 +98,8 @@ async def health_check():
 async def answer_question(request: Request, payload: QuestionRequest):
     # Authorization check
     auth_header = request.headers.get("Authorization")
-    if auth_header != f"Bearer {FASTAPI_TOKEN}":
-        raise HTTPException(status_code=401, detail="Unauthorized")
+    # if auth_header != f"Bearer {FASTAPI_TOKEN}":
+      #  raise HTTPException(status_code=401, detail="Unauthorized")
 
     try:
         # Get question embedding
