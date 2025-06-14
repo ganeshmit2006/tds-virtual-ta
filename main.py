@@ -9,6 +9,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from markdown import markdown
 from bs4 import BeautifulSoup
 import time
+from fastapi.responses import PlainTextResponse
 
 app = FastAPI()
 
@@ -87,6 +88,11 @@ def filename_to_url(filename: str) -> Optional[str]:
             return base_url + re.sub(pattern, replacement, name)
     
     return None
+
+@app.get("/api/health", response_class=PlainTextResponse)
+async def health_check():
+    """Health check endpoint for deployment verification"""
+    return "API is healthy"
 
 @app.post("/api/", response_model=AnswerResponse)
 async def answer_question(request: Request, payload: QuestionRequest):
